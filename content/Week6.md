@@ -1,5 +1,5 @@
 Title: 2016Fall 2016/10/21 Week6
-Date: 2016-09-2 12:00
+Date: 2016-10-20 12:00
 Category: Misc
 Tags: 使用導引, 創造力, 表達能力, 協同設計
 Auth40423150
@@ -7,9 +7,5 @@ Auth40423150
 
  第六週
 
-用onshape跟Solvespace來畫指定的圖
-Onshape部分:
-用學校信箱帳號創立一個免費的Onshape帳號
-Solvespace部分:
-去課程倉儲的上課筆記下載Solvespace
-
+段考快到拉 好期待哦~~
+每天都好期待來上老師的課哦~~
