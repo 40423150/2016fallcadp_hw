@@ -9,22 +9,22 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151212173315.1" a="E"><vh>@settings</vh>
+<v t="leo.20151212173315.1"><vh>@settings</vh>
 <v t="leo.20151212173315.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
-<v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="amd.20160106095324.1"><vh>@path ./../</vh>
+<v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
-<v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
-<v t="amd.20161004083800.1" a="E"><vh>html</vh>
+<v t="amd.20151215180106.1"><vh>設定與開發</vh>
+<v t="amd.20151216151325.1"><vh>@clean index.html</vh>
+<v t="amd.20161004083800.1"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh></v>
-<v t="amd.20161004083800.5" a="E"><vh>body</vh>
-<v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
-<v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
+<v t="amd.20161004083800.5"><vh>body</vh>
+<v t="amd.20161004083800.6"><vh>reveal div</vh>
+<v t="amd.20161004083800.7"><vh>slides div</vh>
 <v t="amd.20161004095719.1"><vh>封面投影片</vh></v>
 <v t="yen.20161016024324.1"><vh>快捷鍵</vh></v>
 <v t="leo.20161013151511.1"><vh>第一週</vh></v>
@@ -84,8 +84,8 @@
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
-<v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
+<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094829.1"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
