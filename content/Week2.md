@@ -4,7 +4,6 @@ Category: Misc
 Tags: 使用導引, 創造力, 表達能力, 協同設計
 Auth40423150
 
-gh-pages Week2
 
 ## 第二週
 
