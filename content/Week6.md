@@ -4,16 +4,12 @@ Category: Misc
 Tags: 使用導引, 創造力, 表達能力, 協同設計
 Auth40423150
 
-tye Week6
 
+ 第六週
 
-## 第六週
-
-####用onshape跟Solvespace來畫指定的圖
-
-####Onshape部分:
+用onshape跟Solvespace來畫指定的圖
+Onshape部分:
 用學校信箱帳號創立一個免費的Onshape帳號
-
-####Solvespace部分:
+Solvespace部分:
 去課程倉儲的上課筆記下載Solvespace
 
