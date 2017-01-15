@@ -2,7 +2,7 @@ Title: 2016Fall 2016/10/14 Week5
 Date: 2016-09-2 12:00
 Category: Misc
 Tags: 使用導引, 創造力, 表達能力, 協同設計
-Author: 40423248
+Auth40423150
 
 ddf Week5
 
@@ -27,5 +27,5 @@ ddf Week5
 3.####用前面的指令完成更新子模組的對應版本後, 要做推送資料, 將改版資料推到遠端, 之後透過 git submodule update --init --recursive 把此對應版本的子模組拉到近端, 其中因為子模組中還有子模組, 而此更新對這些新加入的子子模組沒有 --init, 所以子模組更新時, 要納入 --init
 
 <iframe src="https://player.vimeo.com/video/188114893" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/188114893">cadp測試W5</a> from <a href="https://vimeo.com/user46447136">40423248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/188114893">cadp測試W5</a> from <a href="htt40423150eo.com/user46447136">40423248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 

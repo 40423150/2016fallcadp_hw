@@ -2,7 +2,7 @@ Title: 2016Fall 2016/09/23 Week2
 Date: 2016-09-2 12:00
 Category: Misc
 Tags: 使用導引, 創造力, 表達能力, 協同設計
-Author: 40423248
+Auth40423150
 
 gh-pages Week2
 
@@ -21,4 +21,4 @@ gh-pages Week2
 ####再按下Shift+Print Scrn可以停止錄影
 
 <iframe src="https://player.vimeo.com/video/187145026" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/187145026">cadp測試W2</a> from <a href="https://vimeo.com/user46447136">40423248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/187145026">cadp測試W2</a> from <a href="https://v40423150/user46447136">40423248</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
