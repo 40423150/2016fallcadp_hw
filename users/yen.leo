@@ -77,11 +77,9 @@
 <v t="leo.20161213184541.1"><vh>@edit Week10.md</vh></v>
 <v t="leo.20161213184634.1"><vh>@edit Week11.md</vh></v>
 <v t="leo.20161213184736.1"><vh>@edit Week12.md</vh></v>
-<v t="leo.20161213184933.1"><vh>@edit Week13.md</vh></v>
 <v t="leo.20161223113330.1"><vh>@edit Week14.md</vh></v>
 <v t="leo.20161223114350.1"><vh>@edit Week15.md</vh></v>
 <v t="leo.20170106100740.1"><vh>@edit Week16.md</vh></v>
-<v t="leo.20170106115917.1"><vh>@edit Week17.md</vh></v>
 <v t="leo.20170113093931.1"><vh>@edit Week18.md</vh></v>
 </v>
 </v>
