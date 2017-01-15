@@ -6,7 +6,6 @@ Auth40423150
 
 
  第二週
-
  1.先到 https://github.com/mdecourse 的 2016cadp 按 Fork
 2.在自己的github帳號創立一個 2016fallcadp_hw倉儲 把最下面的 Add.gitignore輸入 Python Add a license輸入 Agpl
 3.在 2016fallcadp_hw倉儲 建立gh-pages分支

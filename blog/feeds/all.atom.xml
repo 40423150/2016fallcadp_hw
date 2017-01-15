@@ -97,8 +97,8 @@ references引用 modified改性 hover徘徊 perpendicular垂直 transparent透�
 更改網路位址
 proxy.mde.tw 連接:3128
 即可連至學校網路&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall 2016/09/23 Week2</title><link href="./2016fall-20160923-week2.html" rel="alternate"></link><published>2016-09-22T12:00:00+08:00</published><updated>2016-09-22T12:00:00+08:00</updated><author><name>KMOL</name></author><id>tag:,2016-09-22:./2016fall-20160923-week2.html</id><summary type="html">&lt;p&gt;Auth40423150&lt;/p&gt;
-&lt;p&gt;第二週&lt;/p&gt;
-&lt;p&gt;1.先到 https://github.com/mdecourse 的 2016cadp 按 Fork
+&lt;p&gt;第二週
+ 1.先到 https://github.com/mdecourse 的 2016cadp 按 Fork
 2.在自己的github帳號創立一個 2016fallcadp_hw倉儲 把最下面的 Add.gitignore輸入 Python Add a license輸入 Agpl
 3.在 2016fallcadp_hw倉儲 建立gh-pages分支
 4.按上方的一個setting-branches-選擇gh-pages
