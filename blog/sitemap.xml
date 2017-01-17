@@ -5,56 +5,63 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-01-15T20:36:22-00:00</lastmod>
+<lastmod>2017-01-17T22:25:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-01-15T20:36:22-00:00</lastmod>
+<lastmod>2017-01-17T22:25:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-01-15T20:36:22-00:00</lastmod>
+<lastmod>2017-01-17T22:25:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-01-15T20:36:22-00:00</lastmod>
+<lastmod>2017-01-17T22:25:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-01-14T01:54:05+08:00</lastmod>
+<lastmod>2017-01-17T22:17:21+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2016fall-20170113-week18-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-di-shi-ba-zhou-qi-mo-ke-cheng-zong-jie.html</loc>
+<lastmod>2017-01-13T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20161230-week16.html</loc>
-<lastmod>2017-01-12T12:00:00+08:00</lastmod>
+<lastmod>2016-12-30T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20161223-week15.html</loc>
-<lastmod>2016-12-22T12:00:00+08:00</lastmod>
+<lastmod>2016-12-23T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20161216-week14.html</loc>
-<lastmod>2016-12-15T12:00:00+08:00</lastmod>
+<lastmod>2016-12-16T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -68,84 +75,84 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./2016fall-20161202-week12.html</loc>
-<lastmod>2016-12-01T12:00:00+08:00</lastmod>
+<lastmod>2016-12-02T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20161125-week11.html</loc>
-<lastmod>2016-11-24T12:00:00+08:00</lastmod>
+<lastmod>2016-11-25T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20161118week10.html</loc>
-<lastmod>2016-11-17T12:00:00+08:00</lastmod>
+<lastmod>2016-11-18T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20161111-week9.html</loc>
-<lastmod>2016-11-10T12:00:00+08:00</lastmod>
+<lastmod>2016-11-11T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20161104-week8.html</loc>
-<lastmod>2016-11-03T12:00:00+08:00</lastmod>
+<lastmod>2016-11-04T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20161028-week7.html</loc>
-<lastmod>2016-10-27T12:00:00+08:00</lastmod>
+<lastmod>2016-10-28T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20161021-week6.html</loc>
-<lastmod>2016-10-20T12:00:00+08:00</lastmod>
+<lastmod>2016-10-21T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20161014-week5.html</loc>
-<lastmod>2016-10-13T12:00:00+08:00</lastmod>
+<lastmod>2016-10-14T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20161007-week4.html</loc>
-<lastmod>2016-10-06T12:00:00+08:00</lastmod>
+<lastmod>2016-10-07T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20160930-week3.html</loc>
-<lastmod>2016-09-29T12:00:00+08:00</lastmod>
+<lastmod>2016-09-30T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20160923-week2.html</loc>
-<lastmod>2016-09-22T12:00:00+08:00</lastmod>
+<lastmod>2016-09-23T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2016fall-20160916-week1.html</loc>
-<lastmod>2016-09-15T12:00:00+08:00</lastmod>
+<lastmod>2016-09-16T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -158,57 +165,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./2016fall-20170113-week18-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-di-shi-ba-zhou-qi-mo-ke-cheng-zong-jie.html</loc>
-<lastmod>2016-09-02T12:00:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>./category/misc.html</loc>
-<lastmod>2017-01-12T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/biao-da-neng-li.html</loc>
-<lastmod>2017-01-12T12:00:00+08:06</lastmod>
+<lastmod>2017-01-13T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/shi-yong-dao-yin.html</loc>
-<lastmod>2017-01-12T12:00:00+08:06</lastmod>
+<lastmod>2017-01-13T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/biao-da-neng-li.html</loc>
+<lastmod>2017-01-13T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/xie-tong-she-ji.html</loc>
-<lastmod>2017-01-12T12:00:00+08:06</lastmod>
+<lastmod>2017-01-13T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/chuang-zao-li.html</loc>
-<lastmod>2017-01-12T12:00:00+08:06</lastmod>
+<lastmod>2017-01-13T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40423150.html</loc>
-<lastmod>2016-09-15T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./author/kmol.html</loc>
-<lastmod>2017-01-12T12:00:00+08:06</lastmod>
+<lastmod>2017-01-13T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

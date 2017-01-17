@@ -1,8 +1,15 @@
 Title: 2016Fall 2017/01/13 Week18 電腦輔助設計實習課程第十八週期末課程總結
-Date: 2016-09-2 12:00
+Date: 2017-01-13 12:00
 Category: Misc
 Tags: 使用導引, 創造力, 表達能力, 協同設計
-Auth40423150
+Author: 40423150
+
+
+#solvespace畫圖
+
+<iframe src="https://player.vimeo.com/video/199534149" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/199534149">40423150</a> from <a href="https://vimeo.com/user44209237">40423150</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 ert Week18
 

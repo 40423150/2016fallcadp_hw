@@ -1,8 +1,8 @@
 Title: 2016Fall 2016/11/18Week10
-Date: 2016-11-17 12:00
+Date: 2016-11-18 12:00
 Category: Misc
 Tags: 使用導引, 創造力, 表達能力, 協同設計
-Auth40423150
+Author: 40423150
 
 第十周
 

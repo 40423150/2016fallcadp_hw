@@ -1,8 +1,8 @@
 Title: 2016Fall 2016/10/21 Week6
-Date: 2016-10-20 12:00
+Date: 2016-10-21 12:00
 Category: Misc
 Tags: 使用導引, 創造力, 表達能力, 協同設計
-Auth40423150
+Author: 40423150
 
 
  第六週

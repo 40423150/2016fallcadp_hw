@@ -1,8 +1,8 @@
 Title: 2016Fall 2016/10/07 Week4
-Date: 2016-10-06 12:00
+Date: 2016-10-07 12:00
 Category: Misc
 Tags: 使用導引, 創造力, 表達能力, 協同設計
-Auth40423150
+Author: 40423150
 
 
 第四週

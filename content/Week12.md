@@ -1,9 +1,8 @@
 Title: 2016Fall 2016/12/02 Week12
-Date: 2016-12-01 12:00
+Date: 2016-12-02 12:00
 Category: Misc
 Tags: 使用導引, 創造力, 表達能力, 協同設計
-Auth40423150
-
+Author: 40423150
 第十二周
 
 用Solvespace畫出挖洞的塊狀及棒狀配合件,並組合再一起
